@@ -3,7 +3,7 @@
 # Matheus Agostinho
 
 ### Hello people 👋
- Tenho sede por conhecimnento e sou facinado por tecnologia. :heart: <br/>
+ Tenho sede por conhecimnento e sou fascinado por tecnologia. :heart: <br/>
 Buscando ser um FullStack Developer:computer: <br/>
 Pois **o homem é aquilo que ele quer ser!**
 
