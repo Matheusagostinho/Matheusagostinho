@@ -4,7 +4,7 @@
 
 ### Hello people 👋
  Tenho sede por conhecimnento e sou fascinado por tecnologia. :heart: <br/>
-Buscando ser um FullStack Developer:computer: <br/>
+Buscando ser um FullStack Developer :computer: <br/>
 Pois **o homem é aquilo que ele quer ser!**
 
  :white_check_mark:  &nbsp;  Hoje, sou o gestor de um delivery 
