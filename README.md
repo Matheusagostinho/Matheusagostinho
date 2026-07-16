@@ -4,8 +4,8 @@
 
 > **"O homem é aquilo que ele quer ser!"**
 
-- 🚀 Construo produtos SaaS de ponta a ponta — do design à produção
-- 🎓 Cursando o 8º período de Sistemas de Informação no IFNMG
+- 🚀 Constrindo produtos de ponta a ponta
+- 🎓 Bacharel em Sistemas de Informação Pelo Instituto Federal do Norte de Minas Gerais
 - 💡 Para cada desafio eu encontro uma solução — e o *não* nunca é uma alternativa
 - 🎨 Tenho facilidade com design gráfico, o que me ajuda a criar interfaces caprichadas
 - 🏀 Nas horas vagas: basquete, games e aprender algo novo que me brilhe os olhos
